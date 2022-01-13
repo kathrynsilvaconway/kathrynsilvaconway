@@ -1,4 +1,5 @@
-[Kathryn's github stats](https://github-readme-stats.vercel.app/api?username=kathrynsilvaconway)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kathrynsilvaconway&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 
 - 👋 Hi, I’m @kathrynsilvaconway
