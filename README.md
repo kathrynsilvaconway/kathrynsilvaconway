@@ -8,7 +8,7 @@
 - 🌱 Currently focused on expanding my AWS knowledge. 
 - 💞️ I’m looking to collaborate on testing for Django sites.
 - :cherry_blossom: Permanently preoccupied with recursion.
-- 📫 How to reach me [mailto: kathrynsilvaconway@yahoo.com]
+- 📫 How to reach me [kathrynsilvaconway@yahoo.com]
 
 <!---
 kathrynsilvaconway/kathrynsilvaconway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
